@@ -1,6 +1,4 @@
-import Logo from "@/app/_components/Logo";
-import Navigation from "@/app/_components/Navigation";
-
+import { Analytics } from "@vercel/analytics/react";
 import { Josefin_Sans } from "next/font/google";
 
 const josefin = Josefin_Sans({
